@@ -11,7 +11,7 @@ def getNews(githubLogin, organizationName):
     @type organizationName: String
     @param githubLogin: Login on GitHub
     @param organizationName: Organization name on GitHub
-    @return: Response from Server, which contains a list of organizations in JSON format
+    @return: Response from Server, which contains a list of organization's events in JSON format
     """
     pass
 def addNewsToDB():
